@@ -171,7 +171,7 @@ const StoreComponent = () => {
                             {product.title}
                           </ProductDetailTitle>
                           <ProductDetailPrice>
-                            {product.price}$
+                          Rp {product.price}
                           </ProductDetailPrice>
                           <ProductDetailDesc>
                             {product.description}

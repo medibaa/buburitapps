@@ -81,7 +81,7 @@ const Detail = () => {
 
                 <ProductName>{product?.title}</ProductName>
                 <Description>{product?.description}</Description>
-                <Price>${product?.price}</Price>
+                <Price>Rp {product?.price}</Price>
                 <ButtonWrapper>
                   <ButtonQuantity>
                     <ButtonCalc onClick={() => handleClickQuantity(false)}>

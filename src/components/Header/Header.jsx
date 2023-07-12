@@ -47,7 +47,7 @@ const Header = () => {
       <Container>
         <Wrapper>
           <Link href="/" passHref>
-            <Title>Cuyshop</Title>
+            <Title>Netblu</Title>
           </Link>
           <Menu>
             <Link href="/store" passHref>

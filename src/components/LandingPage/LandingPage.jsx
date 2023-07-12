@@ -32,19 +32,20 @@ const LandingPage = () => {
   const [listProduct, setListProduct] = useState([]);
 
   const getListProduct = async () => {
-    const [resultFirstPage, resultSecondPage, resultThirdPage] =
+    const [resultFirstPage,  ] = //resultSecondPage, resultThirdPage
       await Promise.all([
         getProduct({ page: 1 }),
         getProduct({ page: 2 }),
         getProduct({ page: 3 }),
+        getProduct({ page: 4 }),
       ]);
 
     const { result: firstPageProduct } = resultFirstPage || [];
-    const { result: secondPageProduct } = resultSecondPage || [];
-    const { result: thirdPageProduct } = resultThirdPage || [];
+    const { result: secondPageProduct } = resultFirstPage || [];
+    const { result: thirdPageProduct } = resultFirstPage || [];
 
     const productData =
-      [...firstPageProduct, ...secondPageProduct, ...thirdPageProduct] || [];
+      [...firstPageProduct , ...secondPageProduct, ...thirdPageProduct,] || []; //
 
     const getFirstItem = getRandomInt(0, productData.length - 8);
     const sliceProduct = productData.slice(getFirstItem, getFirstItem + 8);
@@ -65,9 +66,9 @@ const LandingPage = () => {
             </HeroRow>
             <HeroRow>
               <Text>
-                <Title>Temukan barang yang kamu inginkan di Cuyshop</Title>
+                <Title>Temukan barang yang kamu inginkan di Netblu</Title>
                 <SubTitle>
-                  Cuyshop adalah e-commerce yang dapat memberikan pengalaman
+                  Netblu adalah e-commerce yang dapat memberikan pengalaman
                   terbaik untuk jual beli bagi pengguna
                 </SubTitle>
                 <Link href="/store" passHref>
@@ -99,7 +100,7 @@ const LandingPage = () => {
                             {product.title}
                           </ProductDetailTitle>
                           <ProductDetailPrice>
-                            {product.price}$
+                          Rp {product.price}
                           </ProductDetailPrice>
                           <ProductDetailDesc>
                             {product.description}

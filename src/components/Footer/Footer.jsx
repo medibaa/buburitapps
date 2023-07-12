@@ -17,7 +17,7 @@ const FooterComponent = () => {
       <Wrapper>
         <div>
           <Link href="/" passHref>
-            <Title>Cuyshop</Title>
+            <Title>Birunet</Title>
           </Link>
           <Copyright>
             Copyright &copy; {new Date().getFullYear()}. Cuy Team
@@ -25,7 +25,7 @@ const FooterComponent = () => {
         </div>
         <MenuWrapper>
           <Menu>
-            <SubTitle>Cuyshop</SubTitle>
+            <SubTitle>Netblu</SubTitle>
             <Link href="/store" passHref>
               <Item>Produk</Item>
             </Link>
