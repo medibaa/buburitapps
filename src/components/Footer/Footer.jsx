@@ -20,38 +20,41 @@ const FooterComponent = () => {
             <Title>Birunet</Title>
           </Link>
           <Copyright>
-            Copyright &copy; {new Date().getFullYear()}. Cuy Team
+            Copyright &copy; {new Date().getFullYear()}.  Blunet
           </Copyright>
         </div>
         <MenuWrapper>
           <Menu>
-            <SubTitle>Netblu</SubTitle>
+            <SubTitle>Blunet</SubTitle>
             <Link href="/store" passHref>
               <Item>Produk</Item>
             </Link>
             <Link href="/about" passHref>
               <Item>Tentang Kami</Item>
             </Link>
+            <Link href="/snk" passHref>
+              <Item>Syarat dan Ketentuan</Item>
+            </Link>
           </Menu>
           <Menu>
             <SubTitle>Kontak</SubTitle>
             <a
               target="_blank"
-              href="https://www.youtube.com/c/DeaAfrizal"
+              href="https://www.youtube.com/c/Blunet"
               rel="noopener noreferrer"
               style={{ textDecoration: "none" }}>
               <Item>Youtube</Item>
             </a>
             <a
               target="_blank"
-              href="https://www.instagram.com/dea.afrizal/"
+              href="https://www.instagram.com/Blunet/"
               rel="noopener noreferrer"
               style={{ textDecoration: "none" }}>
               <Item>Instagram</Item>
             </a>
             <a
               target="_blank"
-              href="https://www.tiktok.com/@dea.afrizal"
+              href="https://www.tiktok.com/@Blunet"
               rel="noopener noreferrer"
               style={{ textDecoration: "none" }}>
               <Item>Tiktok</Item>

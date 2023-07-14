@@ -1,11 +1,11 @@
 {
   "products": [{
       "id": 1,
-      "title": "Lemon Juice",
+      "title": "Telur Jangkrik",
       "price": 120000,
-      "description": "Up to 3mbps, lancar untuk 3 perangkat.",
-      "category": "Juice",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "description": "Telur Jangkrik - Sumber Protein Berkualitas Tinggi. Dapatkan manfaat protein berkualitas tinggi dengan telur jangkrik kami!Telur jangkrik adalah pilihan yang sehat dan ramah lingkungan untuk memenuhi kebutuhan protein Anda.",
+      "category": "Serangga",
+      "image": "https://lzd-img-global.slatic.net/g/p/e631dbe68f7619dc29a6631a3c859d20.jpg_720x720q80.jpg",
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -13,11 +13,11 @@
     },
     {
       "id": 2,
-      "title": "Guava Juice",
+      "title": "Jangkrik Putih",
       "price": 150000,
-      "description": "Up to 5mbps, lancar untuk 5 perangkat.",
-      "category": "Juice",
-      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "description": "Berikan Hewan Peliharaan Anda Sumber Protein Berkualitas dengan Jangkrik Segar Kami!",
+      "category": "Serangga",
+      "image": "https://alamtani.com/wp-content/uploads/2015/01/ternak-jangkrik.jpg",
       "rating": {
         "rate": 4.1,
         "count": 259
@@ -25,11 +25,11 @@
     },
     {
       "id": 3,
-      "title": "Avocado Juice",
+      "title": "Jangkrik Hitam",
       "price": 210000,
-      "description": "Up to 10mbps, lancar untuk 7 perangkat.",
-      "category": "Juice",
-      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "description": "Jangkrik Hidup Segar: Pilihan Terbaik untuk Kesehatan Optimal Hewan Peliharaan Anda!",
+      "category": "Serangga",
+      "image": "https://4.bp.blogspot.com/-t2yxgSPN1fA/VfEfU6Lo_nI/AAAAAAAADRA/tgVgPqguqtA/s640/jangkrik.JPG",
       "rating": {
         "rate": 4.7,
         "count": 500
@@ -37,11 +37,11 @@
     },
     {
       "id": 4,
-      "title": "Melon Juice",
+      "title": "Jangkrik Hijau",
       "price": 350000,
-      "description": "Up to 20mbps, lancar untuk 10 perangkat.",
-      "category": "Juice",
-      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "description": "Dapatkan Jangkrik Hidup Berkualitas Tinggi untuk Reptil, Amfibi, dan Burung Peliharaan Anda!",
+      "category": "Serangga",
+      "image": "https://media.suara.com/pictures/970x544/2017/10/03/71448-ilustrasi-jangkrik.jpg",
       "rating": {
         "rate": 2.1,
         "count": 430

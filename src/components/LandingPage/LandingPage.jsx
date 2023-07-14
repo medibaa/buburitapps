@@ -66,10 +66,10 @@ const LandingPage = () => {
             </HeroRow>
             <HeroRow>
               <Text>
-                <Title>Temukan barang yang kamu inginkan di Netblu</Title>
+                <Title>Kami Menjual Jangkrik secara daring </Title>
                 <SubTitle>
-                  Netblu adalah e-commerce yang dapat memberikan pengalaman
-                  terbaik untuk jual beli bagi pengguna
+                  Blunet adalah toko jangkrik online yang dapat memberikan pengalaman
+                  terbaik untuk pembeli 
                 </SubTitle>
                 <Link href="/store" passHref>
                   <ProductButton>Explore produk</ProductButton>
