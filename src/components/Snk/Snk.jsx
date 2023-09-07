@@ -17,17 +17,17 @@ const SnkComponent = () => {
       <Snk>
         <Title>Syarat Dan Ketentuan</Title>
         <p>
-        Selamat datang di Blunet, platform jual beli jangkrik yang dioperasikan oleh perusahaan kami. Harap membaca dengan cermat dan memahami syarat dan ketentuan ini sebelum menggunakan layanan kami. Dengan menggunakan layanan kami, Anda dianggap telah membaca, memahami, dan setuju untuk terikat oleh syarat dan ketentuan ini.
+        Selamat datang di Blunet, platform jual beli Kaos kami yang dioperasikan oleh perusahaan kami Blunet. Harap membaca dengan cermat dan memahami syarat dan ketentuan ini sebelum menggunakan layanan kami. Dengan menggunakan layanan kami, Anda dianggap telah membaca, memahami, dan setuju untuk terikat oleh syarat dan ketentuan ini.
 
         Penggunaan Layanan
         a. Anda harus berusia minimal 18 tahun atau memiliki izin orang tua atau wali untuk menggunakan layanan kami.
         b. Anda bertanggung jawab untuk memberikan informasi yang akurat dan terkini saat mendaftar dan menggunakan layanan kami.
         c. Anda setuju untuk menggunakan layanan kami sesuai dengan hukum yang berlaku dan menghormati hak-hak orang lain.
 
-        Produk Jangkrik
-        a. Blunet menyediakan jangkrik hidup sebagai produk utama kami.
+        Produk Kaos
+        a. Blunet menyediakan kaos sebagai produk utama kami.
         b. Kami berkomitmen untuk menyediakan jangkrik yang sehat, segar, dan berkualitas tinggi kepada pelanggan kami.
-        c. Kami tidak bertanggung jawab atas masalah atau kerusakan yang timbul setelah jangkrik diterima oleh pelanggan, seperti kondisi kesehatan jangkrik setelah pengiriman.
+        c. Kami tidak bertanggung jawab atas masalah atau kerusakan yang timbul setelah Kaos diterima oleh pelanggan, seperti kondisi kaos setelah pengiriman.
 
         Pemesanan dan Pembayaran
         a. Anda dapat melakukan pemesanan melalui platform kami. Pastikan untuk memberikan informasi yang akurat dan lengkap.
@@ -35,7 +35,7 @@ const SnkComponent = () => {
         c. Kami berhak menolak atau membatalkan pesanan jika terjadi ketidaksesuaian atau pelanggaran terhadap syarat dan ketentuan ini.
 
         Pengiriman
-        a. Kami akan melakukan pengiriman jangkrik sesuai dengan jadwal yang telah ditentukan.
+        a. Kami akan melakukan pengiriman kaos sesuai dengan jadwal yang telah kami tentukan.
         b. Kami tidak bertanggung jawab atas keterlambatan atau kegagalan pengiriman yang disebabkan oleh alasan di luar kendali kami, seperti gangguan logistik atau keadaan cuaca ekstrem.
 
         Kebijakan Pengembalian

@@ -66,10 +66,9 @@ const LandingPage = () => {
             </HeroRow>
             <HeroRow>
               <Text>
-                <Title>Kami Menjual Jangkrik secara daring </Title>
+                <Title>Hello, Kami menjual kaos secara daring </Title>
                 <SubTitle>
-                  Blunet adalah toko jangkrik online yang dapat memberikan pengalaman
-                  terbaik untuk pembeli 
+                  Blunet adalah toko kaos online yang berbeda sehingga memberikan pengalaman unik saat berbelanja 
                 </SubTitle>
                 <Link href="/store" passHref>
                   <ProductButton>Explore produk</ProductButton>

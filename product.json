@@ -1,11 +1,11 @@
 {
   "products": [{
       "id": 1,
-      "title": "Telur Jangkrik",
+      "title": "Kaos Telur Jangkrik",
       "price": 120000,
-      "description": "Telur Jangkrik - Sumber Protein Berkualitas Tinggi. Dapatkan manfaat protein berkualitas tinggi dengan telur jangkrik kami!Telur jangkrik adalah pilihan yang sehat dan ramah lingkungan untuk memenuhi kebutuhan protein Anda.",
-      "category": "Serangga",
-      "image": "https://lzd-img-global.slatic.net/g/p/e631dbe68f7619dc29a6631a3c859d20.jpg_720x720q80.jpg",
+      "description": "Kaos : Telur Jangkrik unik untuk anda.",
+      "category": "Kaos",
+      "image": "./assets/kaos-telur.png",
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -13,11 +13,11 @@
     },
     {
       "id": 2,
-      "title": "Jangkrik Putih",
+      "title": "Kaos Jangkrik Putih",
       "price": 150000,
-      "description": "Berikan Hewan Peliharaan Anda Sumber Protein Berkualitas dengan Jangkrik Segar Kami!",
-      "category": "Serangga",
-      "image": "https://alamtani.com/wp-content/uploads/2015/01/ternak-jangkrik.jpg",
+      "description": "Pakailah kaos Berkualitas dari kami !",
+      "category": "Kaos",
+      "image": "./assets/kaos-putih.png",
       "rating": {
         "rate": 4.1,
         "count": 259
@@ -25,11 +25,11 @@
     },
     {
       "id": 3,
-      "title": "Jangkrik Hitam",
+      "title": "Kaos Jangkrik Hitam",
       "price": 210000,
-      "description": "Jangkrik Hidup Segar: Pilihan Terbaik untuk Kesehatan Optimal Hewan Peliharaan Anda!",
-      "category": "Serangga",
-      "image": "https://4.bp.blogspot.com/-t2yxgSPN1fA/VfEfU6Lo_nI/AAAAAAAADRA/tgVgPqguqtA/s640/jangkrik.JPG",
+      "description": "Kaos Jangkrik Hitam: Pilihan Terbaik untuk fashion Anda!",
+      "category": "Kaos",
+      "image": "./assets/kaos-hitam.png",
       "rating": {
         "rate": 4.7,
         "count": 500
@@ -37,11 +37,11 @@
     },
     {
       "id": 4,
-      "title": "Jangkrik Hijau",
+      "title": "Kaos Jangkrik Hijau",
       "price": 350000,
-      "description": "Dapatkan Jangkrik Hidup Berkualitas Tinggi untuk Reptil, Amfibi, dan Burung Peliharaan Anda!",
-      "category": "Serangga",
-      "image": "https://media.suara.com/pictures/970x544/2017/10/03/71448-ilustrasi-jangkrik.jpg",
+      "description": "Dapatkan Kaos Jangkrik Hijau Berkualitas Tinggi untuk gaya hidup Anda!",
+      "category": "Kaos",
+      "image": "./assets/kaos-hijau.png",
       "rating": {
         "rate": 2.1,
         "count": 430
